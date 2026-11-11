@@ -20,14 +20,15 @@ HomeLink gives guidance, not financial advice. It launches in Calgary and Edmont
 
 ## Status
 
-HomeLink is a free, personal demo project that I'm designing and building on my own. It's in the planning stage: the vision, first-release scope, personas and user stories are done, and requirements and design come next.
+HomeLink is a free, personal demo project that I'm designing and building on my own. It's in the planning stage: the vision, first-release scope, personas, user stories and requirements are done, and the business rules and design come next.
 
 ## Project documents
 
 All planning documents are in the **[HomeLink project folder on Google Drive](https://drive.google.com/drive/folders/1QX4OuVL7UUJmPdfvhrITE14KfKXFgjk5?usp=sharing)**.
 
-| Document | What's in it |
-|---|---|
-| Vision & MVP deck | The problem, mission, target users, Alberta market context and what's in the first release |
-| Personas & User Stories | Who the app is for and what they need from the first release |
-| Assumptions & Real-World Readiness | Placeholders and assumptions in this demo, and the steps to make it ready for real users |
+| Document                                         | What's in it                                                                                                                          |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Vision & MVP deck                                | The problem, mission, target users, Alberta market context and what's in the first release                                            |
+| Personas & User Stories                          | Who the app is for and what they need from the first release                                                                          |
+| Software Requirements Specification (In Progess) | What the first release must do (34 functional requirements traced to user stories) and how well (performance, privacy, accessibility) |
+| Assumptions & Real-World Readiness               | Placeholders and assumptions in this demo, and the steps to make it ready for real users                                              |
