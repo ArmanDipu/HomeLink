@@ -20,13 +20,14 @@ HomeLink gives guidance, not financial advice. It launches in Calgary and Edmont
 
 ## Status
 
-HomeLink is a solo project that I'm designing and building myself. It's in the planning stage: the vision and first-release scope are set, personas and user stories are in progress, and requirements and design come next.
+HomeLink is a free, personal demo project that I'm designing and building on my own. It's in the planning stage: the vision, first-release scope, personas and user stories are done, and requirements and design come next.
 
 ## Project documents
 
-All planning documents live in [dev_documents/](dev_documents/).
+All planning documents are in the **[HomeLink project folder on Google Drive](https://drive.google.com/drive/folders/1QX4OuVL7UUJmPdfvhrITE14KfKXFgjk5?usp=sharing)**.
 
 | Document | What's in it |
 |---|---|
-| [Vision & MVP deck](dev_documents/HomeLink%20%E2%80%94%20Vision%20%26%20MVP.pptx) | The problem, mission, target users, Alberta market context and what's in the first release |
-| [Personas & User Stories](dev_documents/HomeLink%20%E2%80%94%20Personas%20%26%20User%20Stories.docx) *(in progress)* | Who the app is for and what they need from the first release |
+| Vision & MVP deck | The problem, mission, target users, Alberta market context and what's in the first release |
+| Personas & User Stories | Who the app is for and what they need from the first release |
+| Assumptions & Real-World Readiness | Placeholders and assumptions in this demo, and the steps to make it ready for real users |
