@@ -29,4 +29,4 @@ All planning documents live in [dev_documents/](dev_documents/).
 | Document | What's in it |
 |---|---|
 | [Vision & MVP deck](dev_documents/HomeLink%20%E2%80%94%20Vision%20%26%20MVP.pptx) | The problem, mission, target users, Alberta market context and what's in the first release |
-| Personas & User Stories *(in progress)* | Who the app is for and what they need from the first release |
+| [Personas & User Stories](dev_documents/HomeLink%20%E2%80%94%20Personas%20%26%20User%20Stories.docx) *(in progress)* | Who the app is for and what they need from the first release |
